@@ -1,6 +1,6 @@
 {
   "name": "routesms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Library for easy Route Mobile services integration: http://www.routemobile.com/ - SMS Gateway solution",
   "main": "index.js",
   "repository": {
@@ -20,8 +20,8 @@
     "request": "2.x.x"
   },
   "author": {
-  "name": "Mustafa Segun A",
-  "email": "segsalerty@gmail.com"
+    "name": "Mustafa Segun A",
+    "email": "segsalerty@gmail.com"
   },
   "license": "ISC",
   "bugs": {
