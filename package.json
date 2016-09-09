@@ -1,6 +1,6 @@
 {
   "name": "routesms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Library for easy Route Mobile services integration: http://www.routemobile.com/ - SMS Gateway solution",
   "main": "index.js",
   "repository": {
