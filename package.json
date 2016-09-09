@@ -1,0 +1,31 @@
+{
+  "name": "routesms",
+  "version": "1.0.0",
+  "description": "Simple Library for easy Route Mobile services integration: http://www.routemobile.com/ - SMS Gateway solution",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segsalerty2013/routesms.git"
+  },
+  "keywords": [
+    "sms",
+    "routesms",
+    "gateway",
+    "nodejs",
+    "expressjs",
+    "flashsms"
+  ],
+  "dependencies": {
+    "urlencode": "1.1.x",
+    "request": "2.x.x"
+  },
+  "author": {
+  "name": "Mustafa Segun A",
+  "email": "segsalerty@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segsalerty2013/routesms/issues"
+  },
+  "homepage": "https://github.com/segsalerty2013/routesms#readme"
+}
