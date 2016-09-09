@@ -1,1 +1,1 @@
-module.exports = require('lib/route');
+module.exports = require('./lib/route');
