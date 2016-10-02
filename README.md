@@ -1,9 +1,14 @@
 # routesms
-Simple Javascript Library for easy Route Mobile services integration: http://www.routemobile.com/ - SMS Gateway solution
+Simple Javascript Library for easy Route Mobile services integration: [http://www.routemobile.com](http://www.routemobile.com) - SMS Gateway solution
 
-### npm install routesms
+For your reliable local integration to bulk SMS, TTS and more in Nigeria:
+[http://betasms.com.ng](http://betasms.com.ng)
 
-**How to use ?**
+### Installation
+
+`npm install routesms`
+
+### How to use ?
 
 ```javascript
 var routesms = require('routesms');
@@ -19,7 +24,7 @@ routesms.sender.source = "message-from";
 routesms.sender.destinaton.push('telephone-number');
 //to send to a single telephone number
 //or
-routesms.sender.destinaton.concat(array-of-many-numbers);
+routesms.sender.destinaton = ['array-of-many-numbers'];
 // to send to many telephone numbers in bulk
 
 routesms.sender.message = "message-content";
